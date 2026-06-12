@@ -16,7 +16,7 @@
 
 Étudiant en cycle ingénieur à **ESPRIT**, diplômé d'une licence en **Mathématiques Appliquées — Science des Données** à la Faculté des Sciences de Tunis.
 
-Je conçois des pipelines de données complets — de la collecte à la mise en production — avec une orientation sur le Machine Learning, l'IA générative et la visualisation. Je recherche un **stage PFE ou stage d'été** pour mettre en pratique ces compétences sur des problématiques réelles.
+Je conçois des pipelines de données complets — de la collecte à la mise en production — avec une orientation sur le Machine Learning, l'IA générative et la visualisation. Je recherche un **stage d'été** pour mettre en pratique ces compétences sur des problématiques réelles.
 
 ---
 
@@ -30,7 +30,7 @@ Je conçois des pipelines de données complets — de la collecte à la mise en 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white)
 
-**IA Générative & NLP**
+**IA**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
@@ -94,20 +94,7 @@ Système d'alertes métier pour la gestion locative, pipelines ETL automatisés,
 
 `Python` `PostgreSQL` `Power BI` `DAX` `Machine Learning`
 
----
 
-## Certifications
-
-- 🏅 **Scrum Fundamentals Certified** — Scrum Study
-- 📘 **Developing LLM Applications with LangChain** — DataCamp
-- 🎓 **Machine Learning Algorithms** — Coursera
-- ✍️ **Prompt Engineering** — Udemy
-
----
-
-## Langues
-
-🇹🇳 Arabe — Natif &nbsp;|&nbsp; 🇫🇷 Français — Courant &nbsp;|&nbsp; 🇬🇧 Anglais — Professionnel
 
 ---
 
