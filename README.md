@@ -3,7 +3,7 @@
 I'm a Data Science & AI engineering student based in Tunis, Tunisia. I graduated with a degree in Applied Mathematics (Data Science) and I'm currently in an engineering cycle at ESPRIT. I enjoy building end-to-end data pipelines — from raw data to production — and I've been getting deep into generative AI, RAG systems, and ML modeling. Always looking for interesting problems to work on.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahdi_Abidi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-abidi-39282a337/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mahdiabidi03-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mahdiabidi03)
+[![Facebook](https://img.shields.io/badge/Facebook-Mahdi_Abidi-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahdi.abidi.58152/)
 [![Email](https://img.shields.io/badge/Email-abidimahdi788@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abidimahdi788@gmail.com)
 
 ---
