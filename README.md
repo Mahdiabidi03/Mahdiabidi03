@@ -49,10 +49,20 @@ I'm a Data Science & AI engineering student based in Tunis, Tunisia. I graduated
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Big Data**
+
+![Hadoop 1.x](https://img.shields.io/badge/Hadoop_1.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Hadoop 2.x](https://img.shields.io/badge/Hadoop_2.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![HDFS 1.x](https://img.shields.io/badge/HDFS_1.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![HDFS 2.x](https://img.shields.io/badge/HDFS_2.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![YARN](https://img.shields.io/badge/YARN-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 
 **Databases & BI**
 
@@ -61,6 +71,8 @@ I'm a Data Science & AI engineering student based in Tunis, Tunisia. I graduated
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 **DevOps & Tools**
 
