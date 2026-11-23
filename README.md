@@ -56,14 +56,6 @@ I'm a Data Science & AI engineering student based in Tunis, Tunisia. I graduated
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Big Data**
-
-![Hadoop 1.x](https://img.shields.io/badge/Hadoop_1.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Hadoop 2.x](https://img.shields.io/badge/Hadoop_2.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![HDFS 1.x](https://img.shields.io/badge/HDFS_1.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![HDFS 2.x](https://img.shields.io/badge/HDFS_2.x-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![YARN](https://img.shields.io/badge/YARN-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-
 **Databases & BI**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
